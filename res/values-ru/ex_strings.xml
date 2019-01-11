@@ -23,7 +23,7 @@
     <string name="shake_action_title">Действие при встряхивании устройства</string>
     <!-- Entries listed in the setting flip and shake. -->
     <string-array name="action_setting_entries">
-        <item>Скрыть</item>
+        <item>Вздремнуть</item>
         <item>Отменить</item>
         <item>Ничего</item>
     </string-array>

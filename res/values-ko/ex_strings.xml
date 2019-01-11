@@ -18,6 +18,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">기기 뒤집을 때 동작</string>
     <!-- Setting title for the shake action setting. -->
+    <string name="shake_action_title">기기 흔들기 동작</string>
     <!-- Entries listed in the setting flip and shake. -->
+    <string-array name="action_setting_entries">
+        <item>스누즈</item>
+        <item>끄기</item>
+        <item>없음</item>
+    </string-array>
 </resources>

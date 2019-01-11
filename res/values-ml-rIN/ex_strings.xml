@@ -18,6 +18,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">ഡേവിസ് ഫ്ലിപ് ആക്ഷൻ</string>
     <!-- Setting title for the shake action setting. -->
+    <string name="shake_action_title">ഡേവിസ് ശകെ ആക്ഷൻ</string>
     <!-- Entries listed in the setting flip and shake. -->
+    <string-array name="action_setting_entries">
+        <item>സ്നൂസ് ചെയ്യുക</item>
+        <item>ഡിസ്മിസ്സ് ചെയ്യുക</item>
+        <item>ഒന്നുമില്ല</item>
+    </string-array>
 </resources>

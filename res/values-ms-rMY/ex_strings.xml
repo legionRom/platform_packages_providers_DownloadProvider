@@ -18,6 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">Tindakan Putaran Peranti</string>
     <!-- Setting title for the shake action setting. -->
     <!-- Entries listed in the setting flip and shake. -->
 </resources>
