@@ -23,7 +23,7 @@
     <string name="shake_action_title">Tindakan menggoyangkan perangkat</string>
     <!-- Entries listed in the setting flip and shake. -->
     <string-array name="action_setting_entries">
-        <item>Menunda</item>
+        <item>Tunda</item>
         <item>Abaikan</item>
         <item>Tidak ada</item>
     </string-array>
